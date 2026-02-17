@@ -13,7 +13,7 @@
     'use strict';
 
     function clickContinueButton() {
-        const button = document.querySelector('.btn.btn-white.QfUrVYMsDYol');
+        const button = document.querySelector('[cviscqd="rVURXOFriwKzxB"]')
 
         if (button) {
             button.click();
